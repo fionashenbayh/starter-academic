@@ -16,8 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 # Interests to show in About widget
-
-My research broadly examines the institutional dimensions of autocracy, including the legal and judicial instruments of autocratic rule as well as the challenges of promoting access to equitable justice in the Global South. Focusing on sub-Saharan Africa, my work draws on a mixed-methods approach that combines qualitative and quantitative analyses.
+- Autocratic Politics
+- Law and Courts
+- African Politics
 
 # Education to show in About widget
 education:
@@ -65,6 +66,8 @@ highlight_name: false
 ---
 
 I am an Assistant Professor of Government at William & Mary where I also serve as a faculty affiliate of the Global Research Institute and the Data Science program. I am also a research affiliate of the Centre on Law and Social Transformations at the University of Bergen. Previously, I was a postdoctoral fellow at the Weiser Center for Emerging Democracies at the University of Michigan.
+
+My research broadly examines the institutional dimensions of autocracy, including the legal and judicial instruments of autocratic rule as well as the challenges of promoting access to equitable justice in the Global South. Focusing on sub-Saharan Africa, my work draws on a mixed-methods approach that combines qualitative and quantitative analyses.
 
 My research has been supported by the National Science Foundation, the Institute of International Studies, the Global Research Institute, and has been published in World Politics.
 
